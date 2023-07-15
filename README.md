@@ -1,7 +1,7 @@
 # atlasebooks
 Το αποθετήριο περιλαμβάνει διαδραστικά ηλεκτρονικά βιβλία της σειράς "Οι περιπέτειες της ομάδας ΑΤΛΑΣ" που βρίσκονται στην ψηφιακή βιβλιοθήκη της ομάδας ΑΤΛΑΣ.
 
-https://read.bookcreator.com/library/-Lz3W8hHRbMIcKWevSd_
+~ Η ψηφιακή βιβλιοθήκη (https://read.bookcreator.com/library/-Lz3W8hHRbMIcKWevSd_)
 
 ~ Η Γη μας έχει πυρετό (https://read.bookcreator.com/library/-Lz3W8hHRbMIcKWevSd_/book/tUP9Z5znSvCRcsqlvzO0_Q/BlmxW7tJRJOb2dqi4OWTdg)
 
